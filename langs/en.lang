@@ -147,9 +147,10 @@ _LANG_SELECT_PERFMGR_6="Install to vendor_boot."
 
 _LANG_SELECT_DISGUISED_ADRENO830="Disguised the GPU model as Adreno830?"
 _LANG_SELECT_DISGUISED_ADRENO830_PROMPT_1="The GPU model of Snapdragon 8 Elite is Adreno830."
-_LANG_SELECT_DISGUISED_ADRENO830_PROMPT_2="this might cause a bootloop, Disguising the GPU model as Adreno830 may unlock"
-_LANG_SELECT_DISGUISED_ADRENO830_PROMPT_3="higher image quality and frame rate in some mobile"
-_LANG_SELECT_DISGUISED_ADRENO830_PROMPT_4="games, but the side effects are unknown."
+_LANG_SELECT_DISGUISED_ADRENO830_PROMPT_2="this might can cause a BOOTLOOP"
+_LANG_SELECT_DISGUISED_ADRENO830_PROMPT_3="Disguising the GPU model as Adreno830 may unlock"
+_LANG_SELECT_DISGUISED_ADRENO830_PROMPT_4="higher image quality and frame rate in some mobile"
+_LANG_SELECT_DISGUISED_ADRENO830_PROMPT_5="games, but the side effects are unknown."
 
 _LANG_SELECT_NTSYNC="Add NTSYNC support?"
 _LANG_SELECT_NTSYNC_PROMPT_1="Select No if you don't know what this means."
